@@ -1,10 +1,6 @@
 <?php
 
 /**
- * Plugin Name: TenUp
- * Plugin URI: https://github.com/uydev/tenup
- * Description: Custom Plugin for Tenup Test
- * Version: 1.0.0
  * Author: Uner YILMAZ
  * Author URI: https://github.com/uydev/tenup
  * License: GPLv2 or later
